@@ -70,10 +70,7 @@ for player in player_stat.names:
 
     player_stat.printer.append([player, rounded])
 
-
-# print(player_stat.printer)
-# print (player_stat.printer)
-    
+#sort the data and print out
 player_stat.printer.sort(key=lambda x: x[1], reverse=True)
 
 for player in player_stat.printer:
