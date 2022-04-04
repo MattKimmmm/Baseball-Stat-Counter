@@ -30,3 +30,6 @@ Bill Hallahan  :  0.122
 Bill Sherdel  :  0.091
 Hi Bell  :  0.077
 Earl Smith  :  0.0
+
+## Grading
+-3pts output should be formatted to have 3 decimal places
